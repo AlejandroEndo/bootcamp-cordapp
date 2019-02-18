@@ -7,7 +7,9 @@ import org.jetbrains.annotations.NotNull;
 import java.util.List;
 
 public class HouseState implements ContractState {
-
+    public static void main(String[] args){
+        HouseState state = new HouseState();
+    }
 
     @NotNull
     @Override
