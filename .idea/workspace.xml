@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="3d7d493b-2ed6-46ce-b0c2-39bb3bae40ee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_bootcamp/HouseContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_bootcamp/HouseContract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_bootcamp/HouseState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_bootcamp/HouseState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/java_bootcamp/HouseState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/java_bootcamp/HouseState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/java_bootcamp/TokenContract$Commands$Issue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/java_bootcamp/TokenContract$Commands$Issue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/java_bootcamp/TokenContract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/java_bootcamp/TokenContract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/java_bootcamp/ContractTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/java_bootcamp/ContractTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_bootcamp/TokenContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_bootcamp/TokenContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java_bootcamp/ContractTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java_bootcamp/ContractTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -23,34 +27,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/HouseState.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TokenState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/HouseContract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="75" column="53" selection-start-line="75" selection-start-column="53" selection-end-line="75" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TokenState.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TokenContract.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state relative-caret-position="204">
+              <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/java_bootcamp/ContractTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+              <folding>
+                <element signature="e#866#867#0" expanded="true" />
+                <element signature="e#929#930#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,14 +74,15 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/java_bootcamp/HouseState.java" />
         <option value="$PROJECT_DIR$/src/main/java/java_bootcamp/HouseContract.java" />
+        <option value="$PROJECT_DIR$/src/test/java/java_bootcamp/ContractTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_bootcamp/TokenContract.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="953" />
-    <option name="y" value="23" />
-    <option name="width" value="1095" />
-    <option name="height" value="1129" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -93,6 +96,16 @@
             <path>
               <item name="bootcamp-cordapp" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootcamp-cordapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootcamp-cordapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp-cordapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootcamp-cordapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootcamp-cordapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bootcamp-cordapp" type="b2602c69:ProjectViewProjectNode" />
@@ -158,7 +171,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550538959445" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550627663742" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -173,6 +186,46 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.ContractTests.tokenContractRequiresZeroInputsInTheTransaction">
+    <configuration name="ContractTests.tokenContractImplementsContract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bootcamp-cordapp.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_bootcamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java_bootcamp" />
+      <option name="MAIN_CLASS_NAME" value="java_bootcamp.ContractTests" />
+      <option name="METHOD_NAME" value="tokenContractImplementsContract" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContractTests.tokenContractRequiresZeroInputsInTheTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bootcamp-cordapp.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_bootcamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java_bootcamp" />
+      <option name="MAIN_CLASS_NAME" value="java_bootcamp.ContractTests" />
+      <option name="METHOD_NAME" value="tokenContractRequiresZeroInputsInTheTransaction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ContractTests.tokenContractRequiresZeroInputsInTheTransaction" />
+        <item itemvalue="JUnit.ContractTests.tokenContractImplementsContract" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -186,20 +239,28 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ContractTests_tokenContractImplementsContract - 2019.02.19 at 20h 43m 48s.xml">
+      <configuration name="ContractTests.tokenContractImplementsContract" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContractTests_tokenContractRequiresZeroInputsInTheTransaction - 2019.02.19 at 20h 47m 26s.xml">
+      <configuration name="ContractTests.tokenContractRequiresZeroInputsInTheTransaction" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25382933" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25382933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27352297" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -220,13 +281,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TokenContract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/java_bootcamp/StateTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -240,13 +294,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TokenState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.corda/corda-core/corda-3.0/314aa69908402c0c3214cdfca8d0dac1c3dd41ba/corda-core-corda-3.0-sources.jar!/net/corda/core/contracts/ContractState.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -256,8 +303,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/HouseState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="238">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -270,6 +317,38 @@
           <caret line="75" column="53" selection-start-line="75" selection-start-column="53" selection-end-line="75" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TokenState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TokenContract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/java_bootcamp/ContractTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
           </folding>
         </state>
       </provider>
