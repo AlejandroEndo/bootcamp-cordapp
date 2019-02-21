@@ -34,7 +34,7 @@ public class HouseContract implements Contract {
                 throw new IllegalArgumentException("Output must be a HouseState");
             HouseState houseState = (HouseState) outputState;
             if(houseState.getAddress().length() <= 3)
-                throw  new IllegalArgumentException("ADdress must be longer than 3 characters.");
+                throw  new IllegalArgumentException("Address must be longer than 3 characters.");
             if(houseState.getOwner().getName().getCountry().equals("Brazil"))
                 throw  new IllegalArgumentException("Not allowed to register for Brazilian owners.");
 
@@ -44,7 +44,7 @@ public class HouseContract implements Contract {
             if(!(requiredSigners.contains(ownerKey)))
                 throw new IllegalArgumentException("Owner of house must sign registration.");
 
-        } else if (commandType instanceof Tranfer) {
+        } else if (commandType instanceof Transfer) {
             // Shape constraints.
             if(tx.getInputStates().size() != 1)
                 throw new IllegalArgumentException("Must have one input.");
@@ -81,9 +81,9 @@ public class HouseContract implements Contract {
         }
     }
 
-    public class Register implements CommandData {
+    public static class Register implements CommandData {
     }
 
-    public class Tranfer implements CommandData {
+    public static class Transfer implements CommandData {
     }
 }

@@ -181,7 +181,7 @@ public class ContractTests {
         transaction(ledgerServices, tx -> {
             // Issuer is a required signer, will verify.
             tx.output(TokenContract.ID, tokenState);
-            tx.command(alice.getPublicKey(), new TokenContract.Commands.Issue());
+            tx.command (alice.getPublicKey(), new TokenContract.Commands.Issue());
             tx.verifies();
             return null;
         });
