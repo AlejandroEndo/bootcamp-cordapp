@@ -7,7 +7,6 @@ import net.corda.core.contracts.ContractState;
 import net.corda.core.identity.Party;
 import net.corda.core.transactions.LedgerTransaction;
 import org.jetbrains.annotations.NotNull;
-import sun.tools.jstat.Token;
 
 import java.security.PublicKey;
 import java.util.List;
@@ -48,7 +47,6 @@ public class TokenContract implements Contract {
         PublicKey issuerKey = issuer.getOwningKey();
         if(!(requiredSigners.contains(issuerKey)))
             throw new IllegalArgumentException("Issuer must be a required signer.");
-
     }
 
     public interface Commands extends CommandData {

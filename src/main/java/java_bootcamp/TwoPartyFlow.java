@@ -9,17 +9,20 @@ import net.corda.core.identity.Party;
 public class TwoPartyFlow extends FlowLogic<Integer> {
 
     private Party counterparty;
+    private Integer number;
 
-    public TwoPartyFlow(Party counterparty) {
+    public TwoPartyFlow(Party counterparty, Integer number) {
         this.counterparty = counterparty;
+        this.number = number;
     }
-
 
     @Suspendable
     @Override
     public Integer call() throws FlowException {
         FlowSession session = initiateFlow(counterparty);
-        session.send(1);
-        return null;
+        session.send(number);
+
+        int receivedIncrementedInteger = session.receive(Integer.class).unwrap(it -> it);
+        return receivedIncrementedInteger;
     }
 }

@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d7d493b-2ed6-46ce-b0c2-39bb3bae40ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_bootcamp/ScratchPad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_bootcamp/TwoPartyFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_bootcamp/TwoPartyFlowResponder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_bootcamp/HouseContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_bootcamp/HouseContract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/java_bootcamp/ContractTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java_bootcamp/ContractTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_bootcamp/TokenContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_bootcamp/TokenContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_bootcamp/TokenIssueFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_bootcamp/TokenIssueFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_bootcamp/TwoPartyFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_bootcamp/TwoPartyFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_bootcamp/TwoPartyFlowResponder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_bootcamp/TwoPartyFlowResponder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java_bootcamp/FlowTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java_bootcamp/FlowTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -43,100 +44,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/java_bootcamp/ContractTests.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TokenIssueFlow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="710">
-              <caret line="183" column="23" selection-start-line="183" selection-start-column="23" selection-end-line="183" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/ScratchPad.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TwoPartyFlow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="493">
+              <caret line="48" column="70" selection-start-line="48" selection-start-column="70" selection-end-line="48" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TwoPartyFlowResponder.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/java_bootcamp/FlowTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="251">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="111" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/HouseContract.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TokenContract.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="36" column="55" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-7">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/HouseState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/modules/bootcamp-cordapp.test.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/modules/bootcamp-cordapp.main.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -156,20 +87,22 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/java_bootcamp/HouseState.java" />
         <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/java_bootcamp/TokenContract.java" />
         <option value="$PROJECT_DIR$/src/test/java/java_bootcamp/ContractTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/java_bootcamp/HouseContract.java" />
         <option value="$PROJECT_DIR$/src/main/java/java_bootcamp/ScratchPad.java" />
         <option value="$PROJECT_DIR$/src/main/java/java_bootcamp/VerySimpleFlow.java" />
         <option value="$PROJECT_DIR$/src/main/java/java_bootcamp/TwoPartyFlow.java" />
         <option value="$PROJECT_DIR$/src/main/java/java_bootcamp/TwoPartyFlowResponder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_bootcamp/TokenContract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java_bootcamp/TokenIssueFlow.java" />
+        <option value="$PROJECT_DIR$/src/test/java/java_bootcamp/FlowTests.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="1034" />
-    <option name="width" value="1014" />
-    <option name="height" value="1152" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -177,6 +110,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,17 +188,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550784819425" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550802159268" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -277,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ContractTests">
+  <component name="RunManager" selected="JUnit.FlowTests.transactionConstructedByFlowUsesTheCorrectNotary">
     <configuration name="ContractTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bootcamp-cordapp.test" />
       <extension name="coverage">
@@ -288,39 +221,10 @@
       </extension>
       <option name="PACKAGE_NAME" value="java_bootcamp" />
       <option name="MAIN_CLASS_NAME" value="java_bootcamp.ContractTests" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContractTests.tokenContractRequiresOneCommandInTheTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bootcamp-cordapp.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_bootcamp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="java_bootcamp" />
-      <option name="MAIN_CLASS_NAME" value="java_bootcamp.ContractTests" />
-      <option name="METHOD_NAME" value="tokenContractRequiresOneCommandInTheTransaction" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContractTests.tokenContractRequiresOneOutputInTheTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bootcamp-cordapp.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_bootcamp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="java_bootcamp" />
-      <option name="MAIN_CLASS_NAME" value="java_bootcamp.ContractTests" />
-      <option name="METHOD_NAME" value="tokenContractRequiresOneOutputInTheTransaction" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -javaagent:lib/quasar.jar" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -357,13 +261,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FlowTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bootcamp-cordapp.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_bootcamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java_bootcamp" />
+      <option name="MAIN_CLASS_NAME" value="java_bootcamp.FlowTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlowTests.transactionConstructedByFlowUsesTheCorrectNotary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bootcamp-cordapp.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_bootcamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java_bootcamp" />
+      <option name="MAIN_CLASS_NAME" value="java_bootcamp.FlowTests" />
+      <option name="METHOD_NAME" value="transactionConstructedByFlowUsesTheCorrectNotary" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -javaagent:lib/quasar.jar" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ContractTests" />
+      <item itemvalue="JUnit.ContractTests.tokenContractRequiresTheIssuerToBeARequiredSignerInTheTransaction" />
+      <item itemvalue="JUnit.ContractTests.tokenContractRequiresTheTransactionsOutputToHaveAPositiveAmount" />
+      <item itemvalue="JUnit.FlowTests" />
+      <item itemvalue="JUnit.FlowTests.transactionConstructedByFlowUsesTheCorrectNotary" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FlowTests.transactionConstructedByFlowUsesTheCorrectNotary" />
+        <item itemvalue="JUnit.FlowTests" />
         <item itemvalue="JUnit.ContractTests" />
         <item itemvalue="JUnit.ContractTests.tokenContractRequiresTheIssuerToBeARequiredSignerInTheTransaction" />
         <item itemvalue="JUnit.ContractTests.tokenContractRequiresTheTransactionsOutputToHaveAPositiveAmount" />
-        <item itemvalue="JUnit.ContractTests.tokenContractRequiresOneCommandInTheTransaction" />
-        <item itemvalue="JUnit.ContractTests.tokenContractRequiresOneOutputInTheTransaction" />
       </list>
     </recent_temporary>
   </component>
@@ -381,12 +325,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ContractTests_tokenContractRequiresZeroInputsInTheTransaction - 2019.02.20 at 15h 08m 45s.xml">
-      <configuration name="ContractTests.tokenContractRequiresZeroInputsInTheTransaction" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ContractTests_tokenContractRequiresZeroInputsInTheTransaction - 2019.02.20 at 15h 15m 37s.xml">
-      <configuration name="ContractTests.tokenContractRequiresZeroInputsInTheTransaction" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ContractTests_tokenContractRequiresZeroInputsInTheTransaction - 2019.02.20 at 17h 23m 15s.xml">
       <configuration name="ContractTests.tokenContractRequiresZeroInputsInTheTransaction" configurationId="JUnit" />
     </history-entry>
@@ -411,12 +349,18 @@
     <history-entry file="ContractTests - 2019.02.21 at 11h 20m 56s.xml">
       <configuration name="ContractTests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FlowTests_transactionConstructedByFlowUsesTheCorrectNotary - 2019.02.21 at 21h 01m 50s.xml">
+      <configuration name="FlowTests.transactionConstructedByFlowUsesTheCorrectNotary" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlowTests_transactionConstructedByFlowUsesTheCorrectNotary - 2019.02.21 at 21h 03m 15s.xml">
+      <configuration name="FlowTests.transactionConstructedByFlowUsesTheCorrectNotary" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2048" height="1152" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49809402" visible="true" weight="0.1226321" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49809402" visible="true" weight="0.25382933" />
       <window_info id="Structure" order="1" sideWeight="0.501906" side_tool="true" weight="0.25308642" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -425,7 +369,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49953488" weight="0.27264327" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49953488" visible="true" weight="0.27242887" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -434,7 +378,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50092936" side_tool="true" weight="0.27264327" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" sideWeight="0.4995015" weight="0.22757956" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.33260393" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -474,16 +418,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TokenContract.java">
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="49" column="84" selection-start-line="49" selection-start-column="84" selection-end-line="49" selection-end-column="84" />
+        <state relative-caret-position="570">
+          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/ScratchPad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/HouseState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="255">
           <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
@@ -497,30 +461,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/java_bootcamp/ContractTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
-          <caret line="183" column="23" selection-start-line="183" selection-start-column="23" selection-end-line="183" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="25" lean-forward="true" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/HouseState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/HouseContract.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -531,37 +471,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/ScratchPad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TwoPartyFlow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        <state relative-caret-position="340">
+          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TwoPartyFlowResponder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        <state relative-caret-position="578">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#444#445#0" expanded="true" />
             <element signature="e#506#507#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/java_bootcamp/ContractTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3162">
+          <caret line="196" column="1" selection-start-line="196" selection-start-column="1" selection-end-line="196" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TokenContract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java_bootcamp/TokenIssueFlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="48" column="70" selection-start-line="48" selection-start-column="70" selection-end-line="48" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/java_bootcamp/FlowTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="111" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -605,7 +561,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.8 (2)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
