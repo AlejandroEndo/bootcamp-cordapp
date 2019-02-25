@@ -1,0 +1,12 @@
+
+[91m   ______               __
+  / ____/     _________/ /___ _
+ / /     __  / ___/ __  / __ `/         [94mKind of like a regular database but
+[91m/ /___  /_/ / /  / /_/ / /_/ /          [94mwith emojis, colours and ascii art. 😎  
+[91m\____/     /_/   \__,_/\__,_/[m
+
+[99;1m--- Corda Open Source corda-3.0 (d9d6684) -----------------------------------------------
+
+[m
+Logs can be found in                    : /Users/estudiante/Documents/GitHub/bootcamp-cordapp/build/nodes/PartyA/logs
+Database connection url is              : jdbc:h2:tcp://172.19.19.69:58771/node

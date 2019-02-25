@@ -1,0 +1,12 @@
+
+[91m   ______               __
+  / ____/     _________/ /___ _
+ / /     __  / ___/ __  / __ `/         [94mWhat you can buy for a dollar these
+[91m/ /___  /_/ / /  / /_/ / /_/ /          [94mdays is absolute non-cents! 💰  
+[91m\____/     /_/   \__,_/\__,_/[m
+
+[99;1m--- Corda Open Source corda-3.0 (d9d6684) -----------------------------------------------
+
+[m
+Logs can be found in                    : /Users/estudiante/Documents/GitHub/bootcamp-cordapp/build/nodes/PartyC/logs
+Database connection url is              : jdbc:h2:tcp://172.19.19.69:58763/node
